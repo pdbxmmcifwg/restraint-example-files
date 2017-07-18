@@ -1,4 +1,4 @@
 # restraint-example-files
 
 ## Introduction
-A place to provide examples of mmCIF files that a specifically exemplars of restraints deposition.
+A place to exemplars of mmCIF restraints deposition.
